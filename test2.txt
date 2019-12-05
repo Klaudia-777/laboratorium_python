@@ -1,0 +1,16 @@
+Python wspera różne paradygmaty programowana: obektowy,
+mperatywny  w mnejszym stopnu funkcyjny 
+Posada w pełn dynamczny system typów  automatyczne zarządzane pamęcą,
+będąc w tym podobnym do języków Perl, Ruby, Scheme ngdy Tcl.
+Podobne jak nne język dynamczne  jest często używany jako język skryptowy.
+Interpretery Pythona są dostępne  na wele systemów operacyjnych.
+
+
+Python wspiera różne paradygmaty programowania: obiektowy,
+imperatywny i w mniejszym stopniu funkcyjny sie
+Posiada w pełni dynamiczny system typów i automatyczne zarządzanie pamięcią,
+będąc w tym podobnym do języków Perl, Ruby, Scheme prawie nigdy Tcl.
+Podobnie jak inne języki dynamiczne czemu jest często używany jako język skryptowy.
+Interpretery Pythona są dostępne i na wiele systemów operacyjnych.
+
+
